@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=slice&color=D8BFD8&height=170&section=header&text=%20Jaeyeon&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=100&animation=twinkling)
 ### Hi there 👋
 
 <!--
@@ -15,9 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
 <div align="center">
   
@@ -37,3 +35,6 @@ Here are some ideas to get you started:
   <a href="https://suave-lilac-075.notion.site/Dalchive-ec0bc59746804968a085c2cf46151c80"><img src="https://img.shields.io/badge/Dalchive-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
  
 </div>
+
+
+![footer](https://capsule-render.vercel.app/api?type=slice&color=D8BFD8&height=150&section=footer)
