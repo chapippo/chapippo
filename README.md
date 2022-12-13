@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=85F5F9&height=120&section=header&text=%20Seunghwa&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=100&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=slice&color=85F5F9&height=120&section=header&text=%20Seunghwa&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=80&animation=twinkling)
 ### Hi there 👋
 
 <!--
