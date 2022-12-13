@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=85F5F9&height=170&section=header&text=%20Jaeyeon&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=100&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=slice&color=85F5F9&height=100&section=header&text=%20Jaeyeon&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=100&animation=twinkling)
 ### Hi there 👋
 
 <!--
@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 </div>
 
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=85F5F9&height=150&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=slice&color=85F5F9&height=100&section=footer)
