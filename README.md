@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=85F5F9&height=120&section=header&text=%20Seunghwa&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=80&animation=twinkling)
-### Hi there 👋
+<!--### Hi there 👋-->
 
 <!--
 **chapippo/chapippo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,14 +19,17 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
 <div align="center">
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seondal&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chapippo&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>
 
 
-  ### 🐣 Seon Dal 🐥 
-  ### Seondal 🐥
+  ### 🐣 Seon Dal 🐥
 
   ---
-
+<h3 align="center"> 📬 Contacts 📬 </h3>
+<p align="center">
+  <a href="mailto:zeus1242@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=petit5730@gmail.com"/>
+  </a>
   <a href="https://suave-lilac-075.notion.site/fd0c2a204d8e4fd7b193800c20d5eda0?v=c62e2af146ed446a97b34c86c16d4835"><img src="https://img.shields.io/badge/Github Projects-000000?style=flat-square&logo=github&logoColor=white"/></a> 
   <a href="https://solved.ac/whkakrkr"><img alt="solved.ac" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=whkakrkr"/></a>
  
